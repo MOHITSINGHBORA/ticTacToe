@@ -1,0 +1,14 @@
+ @import "tailwindcss";
+ :root{
+     --bg: #ffffff;
+    --text: #000000;
+    --btn: #e9e8e8;
+    --btnhvr: #f9f9f9;
+ }
+
+:root.dark{
+     --bg: #292323;
+    --text: #ffffff;
+    --btn: #494949;
+    --btnhvr: #191919;
+}
